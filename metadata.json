@@ -1,0 +1,5 @@
+{
+  "name": "Groundwater Guardian",
+  "description": "An application to estimate the feasibility of rooftop rainwater harvesting (RTRWH) and artificial recharge at a user's location, providing personalized analysis and recommendations.",
+  "requestFramePermissions": []
+}
